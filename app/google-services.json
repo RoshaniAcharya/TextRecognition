@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "237861751629",
+    "firebase_url": "https://mlkit-313d9.firebaseio.com",
+    "project_id": "mlkit-313d9",
+    "storage_bucket": "mlkit-313d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237861751629:android:e8e723771e42b14e",
+        "android_client_info": {
+          "package_name": "com.example.roshani.sensorexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237861751629-43a48e9aa81qr2u2ksp4nho5a2dm6dlo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "237861751629-43a48e9aa81qr2u2ksp4nho5a2dm6dlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfpaQwqoxIcBgDtcK2y1IaqKtyIOgz0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
